@@ -23,6 +23,8 @@
 
 #### Please check [project report](https://github.com/vbabushkin/2021CS-GY9223/blob/main/REPORT/CS_GY_9223_PROJECT_REPORT.pdf) for more details
 
+#### Please check [Link Table](https://docs.google.com/spreadsheets/d/14FVJWiqr64NgHyBEJOC7CZmltegvtySiQzDvlpxk6Ls/edit?ts=60413e6f#gid=0) to get more presentation materials and final project links.
+
 
 <!--## ABSTRACT-->
 </div>
